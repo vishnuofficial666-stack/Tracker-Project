@@ -33,7 +33,6 @@ export default function RecurringTransactions({ onAdd }) {
     localStorage.setItem("recurring", JSON.stringify(recurring));
   }, [recurring]);
 
-  // Auto add பண்ணு — app open ஆகும்போது check பண்ணும்
   useEffect(() => {
     const today = new Date();
     const currentMonth = today.toISOString().slice(0, 7);
