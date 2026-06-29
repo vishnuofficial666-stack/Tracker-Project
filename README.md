@@ -1,16 +1,40 @@
-# React + Vite
+# Finance Tracker 💰
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal finance tracking application built with React.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+👉 https://expensetrackingsystems.netlify.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features<img width="959" height="438" alt="Screenshot 2026-06-29 174609" src="https://github.com/user-attachments/assets/f64fb666-b09f-41e8-969d-111e126a82eb" />
 
-## React Compiler
+- 💰 Income & Expense tracking
+- 📊 Visual Charts (Bar + Pie)
+- 🎯 Budget Alerts with progress bar
+- 🔄 Recurring Transactions (auto add)
+- 💱 Multi Currency support (Live API)
+- 📥 CSV Export
+- 🔍 Search & Filter
+- ✏️ Edit & Delete transactions
+- 💾 Local Storage (data persists)
+- 📱 Mobile Responsive
+- 🌙 Dark Mode
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- React 19
+- Tailwind CSS v4
+- Recharts
+- Vite
+- Exchange Rate API
 
-## Expanding the ESLint configuration
+## 🚀 Run Locally
+git clone https://github.com/vishnuofficial666-stack/finance-tracker.git
+cd finance-tracker
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+<img width="959" height="438" alt="Screenshot 2026-06-29 174609" src="https://github.com/user-attachments/assets/8e906979-0962-496a-87f1-475cbafc3321" />
+
+
+## 👨‍💻 Author
+Vishnu — BCom CA | Aspiring Frontend Developer
